@@ -1,0 +1,4 @@
+hi, this is akash ghosh
+
+how to install node moduls?
+open terminal and type "npm install or npm init -y'
